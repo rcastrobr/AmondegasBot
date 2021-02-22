@@ -1,7 +1,7 @@
 # amondegasBot
 
 Welcome to Amondegas Bot ! 
-
+\n
 The most crazy and no sense Brazilian bot _(o.O)/ 
 Version 1.0 
 
